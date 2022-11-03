@@ -6,9 +6,12 @@
 2. Tailwind installation
 3. React Router Dom @V6 instalalation done
 4. Daisy UI -Tailwind CSS component library - Installation
-5. Home Page Completation (adatheme- made our custom theme--Could be found in `tailwind.config.js`)
+5. Home Page Completation (adatheme- made our custom theme--Could be found in `tailwind.config.js`) <br/>
+ <br/>
     5.1 Navbar
+<br/>
     5.2 Hero Section
+<br/>
     5.3 Footer
 6. 
 
