@@ -55,8 +55,6 @@
 <img src="./public/Project%20SS/Image%207.png" width="45%"></img> 
 <img src="./public/Project%20SS/Image%208.png" width="45%"></img> 
 
-![alt-text-1](./public/Project%20SS/Image%201.png "title-1") ![alt-text-2](./public/Project%20SS/Image%202.png.png "title-2")
-
 ## Run Project Client Side
 
 Git commands: 
