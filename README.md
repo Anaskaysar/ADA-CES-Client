@@ -47,13 +47,15 @@
 
 
 <img src="./public/Project%20SS/Image%201.png" width="45%"></img> 
-<img src="./public/Project%20SS/Image%201%20(2)" width="45%"></img>
-<img src="./public/Project%20SS/Image%201%20(3)" width="45%"></img> 
-<img src="./public/Project%20SS/Image%201%20(4)" width="45%"></img>
-<img src="./public/Project%20SS/Image%201%20(5)" width="45%"></img> 
-<img src="./public/Project%20SS/Image%201%20(6)" width="45%"></img> 
+<img src="./public/Project%20SS/Image%202.png" width="45%"></img>
+<img src="./public/Project%20SS/Image%203.png" width="45%"></img> 
+<img src="./public/Project%20SS/Image%204.png" width="45%"></img>
+<img src="./public/Project%20SS/Image%205.png" width="45%"></img> 
+<img src="./public/Project%20SS/Image%206.png" width="45%"></img> 
+<img src="./public/Project%20SS/Image%207.png" width="45%"></img> 
+<img src="./public/Project%20SS/Image%208.png" width="45%"></img> 
 
-![alt-text-1](./public/Project%20SS/Image%201.png "title-1") ![alt-text-2](./public/Project%20SS/Image%201%20(2).png "title-2")
+![alt-text-1](./public/Project%20SS/Image%201.png "title-1") ![alt-text-2](./public/Project%20SS/Image%202.png.png "title-2")
 
 ## Run Project Client Side
 
