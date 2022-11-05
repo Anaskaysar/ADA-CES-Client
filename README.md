@@ -43,9 +43,17 @@
     4. Composed bar graph
 
 
-#Screen Shots
+## Screen Shots
 
-![alt-text-1](./public/Project%20SS/Image%201.png "title-1") ![alt-text-2](./public/Project%20SS/Image%201.png "title-2")
+
+<img src="./public/Project%20SS/Image%201.png" width="45%"></img> 
+<img src="./public/Project%20SS/Image%201%20(2)" width="45%"></img>
+<img src="./public/Project%20SS/Image%201%20(3)" width="45%"></img> 
+<img src="./public/Project%20SS/Image%201%20(4)" width="45%"></img>
+<img src="./public/Project%20SS/Image%201%20(5)" width="45%"></img> 
+<img src="./public/Project%20SS/Image%201%20(6)" width="45%"></img> 
+
+![alt-text-1](./public/Project%20SS/Image%201.png "title-1") ![alt-text-2](./public/Project%20SS/Image%201%20(2).png "title-2")
 
 ## Run Project Client Side
 
