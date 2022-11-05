@@ -18,8 +18,7 @@
 ## Run Project Client Side
 
 Git commands: 
-1. git clone <repo link>
-2. cd ada-ces-client-side
+1. git clone --branch dashboard https://github.com/Anaskaysar/ADA-CES-Client.git
 
 ### `npm i`
 
@@ -28,4 +27,4 @@ Git commands:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-#git push -u origin <branch>
+
