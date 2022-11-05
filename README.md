@@ -78,5 +78,10 @@ npm i
 npm run
 ```
 
+### Demo User ID and Password
+
+email: ali@ali.com
+pass : 11223344
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
